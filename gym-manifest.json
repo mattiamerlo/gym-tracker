@@ -1,9 +1,9 @@
 {
-  "name": "Gym Tracker — Mattia",
+  "name": "Gym Tracker \u2014 Mattia",
   "short_name": "Gym",
   "description": "Performance tracker per allenamento e biofeedback",
-  "start_url": "/Briscolone/gym-tracker.html",
-  "scope": "/Briscolone/",
+  "start_url": "/gym-tracker/gym-tracker.html",
+  "scope": "/gym-tracker/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0a0a0a",
