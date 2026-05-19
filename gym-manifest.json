@@ -2,7 +2,7 @@
   "name": "Gym Tracker \u2014 Mattia",
   "short_name": "Gym",
   "description": "Performance tracker per allenamento e biofeedback",
-  "start_url": "/gym-tracker/gym-tracker.html",
+  "start_url": "/gym-tracker/",
   "scope": "/gym-tracker/",
   "display": "standalone",
   "orientation": "portrait",
